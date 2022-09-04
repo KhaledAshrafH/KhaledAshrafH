@@ -68,18 +68,12 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     
-     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+     
 
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+<p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledashraf74&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="khaledashraf74" 
     bg_color=#808080/></p>
