@@ -14,7 +14,7 @@
 
 - ⚡ I’m currently gain experinces from internships.
 
-- 📝 I wrote articles on [https://minders-fci.org/blog/author/khaled-ashraf/](https://minders-fci.org/blog/author/khaled-ashraf/)
+- 📝 I wrote articles on [Minders Magazine](https://minders-fci.org/blog/author/khaled-ashraf/)
 
 - 📫 How to reach me **5aleda4rf@gmail.com**
 
@@ -24,13 +24,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <a href="https://fb.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <a href="https://instagram.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5aleda4rf" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="5aleda4rf" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="5aleda4rf" height="30" width="40" /></a> -->
+<a href="https://twitter.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="5aleda4rf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="5aleda4rf" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="5aleda4rf" height="30" width="40" /></a> -->
 </p>
 
 <br>
@@ -41,7 +41,7 @@
     
      
 
-<br><br><br><br>
+<br><br>
 
 <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledashraf74&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
