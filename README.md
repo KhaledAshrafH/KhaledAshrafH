@@ -44,17 +44,17 @@
 <br>
 
 <p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledashraf74&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="khaledashraf74" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="KhaledAshrafH" 
     bg_color=#808080/></p>
 
 <br>
 
-<p align="center" margin="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledashraf74&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="khaledashraf74" /></p>
+<p align="center" margin="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledAshrafH&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="KhaledAshrafH" /></p>
 
 <br>
 
-<p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledashraf74&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="khaledashraf74" /></p>
+<p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledAshrafH&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KhaledAshrafH" /></p>
 
      
