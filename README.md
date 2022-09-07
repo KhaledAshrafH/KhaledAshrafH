@@ -31,6 +31,7 @@
 <a href="https://twitter.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="5aleda4rf" height="30" width="40" /></a> -->
+
 </p>
 
 <br>
@@ -43,19 +44,20 @@
 
 <br>
 
-<p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="KhaledAshrafH" 
-    bg_color=#808080/></p>
+<h1 align="center"></h1> 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="KhaledAshrafH" /></p>
+ <h1 align="center"></h1>     
 
 <br>
 
 <p align="center" margin="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledAshrafH&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="KhaledAshrafH" /></p>
-
+<h1 align="center"></h1>
 <br>
 
 <p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledAshrafH&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KhaledAshrafH" /></p>
 
-     
-     
+<h1 align="center"></h1>     
+<img align="center"
+            src="https://activity-graph.herokuapp.com/graph?username=KhaledAshrafH&bg_color=000000&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true"
+            alt="KhaledAshrafH" width="100%" margin="auto" />
