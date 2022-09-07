@@ -45,6 +45,7 @@
 <br>
 
 <h1 align="center"></h1> 
+<br>
 <p align="center" margin="auto">
 <img align="center"
             src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff"
@@ -60,7 +61,8 @@
 
 <p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledAshrafH&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KhaledAshrafH" width="50%"/></p>
 
-<h1 align="center"></h1>     
+<h1 align="center"></h1>   
+<br>
 <img align="center"
             src="https://activity-graph.herokuapp.com/graph?username=KhaledAshrafH&bg_color=000000&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true"
             alt="KhaledAshrafH" width="100%" margin="auto" />
