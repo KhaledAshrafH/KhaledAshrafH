@@ -45,17 +45,20 @@
 <br>
 
 <h1 align="center"></h1> 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="KhaledAshrafH" /></p>
- <h1 align="center"></h1>     
+<p align="center" margin="auto">
+<img align="center"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=KhaledAshrafH&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff"
+            alt="KhaledAshrafH" width="50%"/></p>
+ <h1 align="center"></h1>
 
 <br>
 
 <p align="center" margin="auto">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KhaledAshrafH&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="KhaledAshrafH" /></p>
+    alt="KhaledAshrafH" width="50%"/></p>
 <h1 align="center"></h1>
 <br>
 
-<p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledAshrafH&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KhaledAshrafH" /></p>
+<p align="center" margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledAshrafH&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="KhaledAshrafH" width="50%"/></p>
 
 <h1 align="center"></h1>     
 <img align="center"
