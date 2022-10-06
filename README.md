@@ -29,7 +29,7 @@
 <a href="https://instagram.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="5aleda4rf" height="30" width="40" /></a> -->
 <a href="https://twitter.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5aleda4rf" height="30" width="40" /></a>
-<!-- <a href="https://codeforces.com/profile/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="5aleda4rf" height="30" width="40" /></a> -->
+<a href="https://codeforces.com/profile/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="5aleda4rf" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/5aleda4rf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="5aleda4rf" height="30" width="40" /></a> -->
 
 </p>
