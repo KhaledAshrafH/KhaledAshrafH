@@ -63,6 +63,6 @@
 
 <h1 align="center"></h1>   
 <br>
-<img align="center"
+<!-- <img align="center"
             src="https://activity-graph.herokuapp.com/graph?username=KhaledAshrafH&bg_color=000000&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true"
-            alt="KhaledAshrafH" width="100%" margin="auto" />
+            alt="KhaledAshrafH" width="100%" margin="auto" /> -->
