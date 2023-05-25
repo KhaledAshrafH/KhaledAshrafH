@@ -9,7 +9,7 @@
 
 <p><img align="right" src="https://github.com/KhaledAshrafH/KhaledAshrafH/blob/main/KhaledAnimation.gif" alt="adam-pw" /></p>
 
-- :eyes: Take a look at [My Portfolio](https://khaledashrafh.github.io/My-Portfolio)
+- :eyes: Take a look at [My Portfolio](https://khaledashrafh.github.io/My-Portfolio){:target="_blank" rel="noopener"}
 
 - 📝 I wrote articles on [Minders Magazine](https://minders-fci.org/blog/author/khaled-ashraf/)
 
@@ -59,6 +59,4 @@
 
 <h1 align="center"></h1>   
 <br>
-<!-- <img align="center"
-            src="https://activity-graph.herokuapp.com/graph?username=KhaledAshrafH&bg_color=000000&color=fa8b00&line=fa8b00&point=ffffff&area=true&hide_border=true"
-            alt="KhaledAshrafH" width="100%" margin="auto" /> -->
+
