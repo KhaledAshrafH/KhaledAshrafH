@@ -9,7 +9,7 @@
 
 <p><img align="right" src="https://github.com/KhaledAshrafH/KhaledAshrafH/blob/main/KhaledAnimation.gif" alt="adam-pw" /></p>
 
-- :eyes: Take a look at [My Portfolio](https://khaledashrafh.github.io/My-Portfolio){:target="_blank" rel="noopener"}
+- :eyes: Take a look at [My Portfolio](https://khaledashrafh.github.io/My-Portfolio)
 
 - 📝 I wrote articles on [Minders Magazine](https://minders-fci.org/blog/author/khaled-ashraf/)
 
