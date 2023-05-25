@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Khaled Ashraf</h1>
-<h3 align="center">I'm a Computer Sciecnce Student and interested in software development field.</h3>
+<h3 align="center">I'm a Computer Sciecnce Student and interested in Software Development, Cyber Security, Network Engineering and AI fields. </h3>
 <h1 align="center"></h1>
 <br>
 
