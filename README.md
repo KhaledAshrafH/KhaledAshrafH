@@ -8,7 +8,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/KhaledAshrafH/KhaledAshrafH/blob/main/KhaledAnimation.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/KhaledAshrafH/KhaledAshrafH/blob/main/KhaledAnimation.gif" alt="KhaledAshrafH" /></p>
 
 - :eyes: Take a look at [My Portfolio](https://khaledashrafh.github.io/My-Portfolio)
 
