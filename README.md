@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Khaled Ashraf</h1>
-<h3 align="center">I am a computer science graduate with expertise in software development and a strong foundation in software
-engineering. I am skilled in applying SOLID principles and software design patterns in my projects.
+<h3 align="center">I am a passionate and versatile computer science graduate with a keen interest in software engineering and programming. I have experience in developing web applications using Java, Angular and other technologies. I also have skills in testing, debugging and troubleshooting software systems. I am eager to learn new tools and frameworks and to work on challenging and innovative projects.
 </h3>
 <h1 align="center"></h1>
 <br>
