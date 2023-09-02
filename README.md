@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Khaled Ashraf</h1>
-<h3 align="center">I’m a Computer Science graduate with a passion for Software Development, Cyber Security, Network Engineering and AI fields.
+<h3 align="center">I am a computer science graduate with expertise in software development and a strong foundation in software
+engineering. I am skilled in applying SOLID principles and software design patterns in my projects.
 </h3>
 <h1 align="center"></h1>
 <br>
